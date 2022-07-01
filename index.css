@@ -119,7 +119,7 @@ div {
     display: block;
     position: absolute;
     width: 100%;
-    top: 8%;
+    top: 9%;
     right: 0px;
     background-image: linear-gradient(80deg, #000, #2e1d57);
     transition: 0.4s;
