@@ -121,7 +121,7 @@ div {
     width: 100%;
     top: 8%;
     right: 0px;
-    background-color: #090511;
+    background-image: linear-gradient(80deg, #000, #2e1d57);
     transition: 0.4s;
     z-index: 1000;
     height: 0px;
